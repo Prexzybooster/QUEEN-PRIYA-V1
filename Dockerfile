@@ -11,7 +11,7 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm install && node index --pairing-code
+RUN npm install
 
 COPY . .
 
