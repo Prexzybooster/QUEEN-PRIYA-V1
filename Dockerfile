@@ -1,4 +1,3 @@
-
 FROM node:lts-buster
 
 RUN apt-get update && \
@@ -11,7 +10,7 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN node index --pairing-code
+RUN npm install && npm install qrcode-terminal
 
 COPY . .
 
