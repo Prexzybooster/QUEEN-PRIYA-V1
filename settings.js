@@ -16,8 +16,8 @@ global.socialm = "GitHub: Prexzybooster" //ur github or insta name
 global.location = "Nigeria, Osun, Osogbo" //ur location
 
 //new
-global.botname = 'QUEEN-PRIYA-V1👑' //ur bot name
-global.ownernumber = '2347063956321' //ur owner number
+global.botname = 'OPJ BUZZ' //ur bot name
+global.ownernumber = '2349033247746' //ur owner number
 global.ownername = 'Precious Ayomide👑' //ur owner name
 global.websitex = "https://youtube.com/@prexzyvilla"
 global.wagc = "https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"
